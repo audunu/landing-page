@@ -62,7 +62,7 @@ a {
     padding: 70px 200px;
     display: flex;
     align-items: flex-start;
-    justify-content: space-between;
+    justify-content: center;
     gap: 40px;
     
 }
@@ -75,6 +75,7 @@ a {
 
 .section1-1 {
     width: 450px;
+    height: 200px;
     
 }
 
