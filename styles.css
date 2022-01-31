@@ -130,10 +130,11 @@ button {
 
 .section3 {
     background-color: #E5E7EB;
-    display: flex;
-    flex-direction: column;
+   /* display: flex;*/
+   /* flex-direction: column;*/
     padding: 75px 245px;
-    align-items: center;
+   /*  align-items: center;*/
+    
 }
 
 .section3 div:first-child {
@@ -146,8 +147,9 @@ button {
 
 .section3 div:last-child {
     font-weight: 700;
-    align-self: flex-end;
-    max-width: 720px;
+    /*align-self: flex-end;*/
+    max-width: 700px;
+    text-align: right;
 }
 
 .call-to-action-container {
